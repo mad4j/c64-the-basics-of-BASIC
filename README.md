@@ -24,6 +24,16 @@ Operator are evaluated left-to-right with this predence order: ^, */, +-.
 PRINT 9*8+7+6^5/4-3-2+1
 ```
 
+## Math Functions
+
+### ABS
+
+ABS evaluates to the absolute value (value without the sign) of the given numeric term.
+
+```
+PRINT ABS(-10)
+```
+
 ## Built-in Functions
 
 Square function and natural logarithm with the basis E
